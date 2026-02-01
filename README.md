@@ -9,11 +9,6 @@ A Power BI dashboard for tracking personal injury cases, attorney performance, a
 - **DAX** for calculated measures
 - **SQL** for data modeling
 
-## 📁 Files Included
-1. `WLG_Law_Firm_Dashboard.pbix` - Main Power BI dashboard
-2. `WLG_CaseManagement.db` - SQLite database with sample data
-3. `WLG_Dashboard_Snapshot.pdf` - Dashboard preview
-
 ## 📈 Dashboard Features
 - **Case Tracking**: Monitor case status and types
 - **Attorney Performance**: Track settlement rates and case loads
